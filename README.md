@@ -127,7 +127,3 @@ Done. 3 found, 2 moved, 1 failed.
 ## Contributing
 
 Suggestions and pull requests are welcome.
-
-## License
-
-Add a license of your choice (for example MIT).
